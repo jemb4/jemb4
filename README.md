@@ -4,7 +4,9 @@
 
 ### Hi there! 👋
 
-This is Jesús, Full Stack developer looking for _frontend-heavy_ opportunities. You can find me on:
+This is Jesús, Full Stack developer from Spain. I am very enthusiastic about internet culture, web/app developing, videogames and all stuff which include something geek. 👾
+
+You can find me on:
 
 > <a href='https://www.linkedin.com/in/j-martin-bermudez/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444445&color=5C5C5C'/></a> <a href='mailto:jesus8.mb@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444445&color=5C5C5C'/></a>
 
