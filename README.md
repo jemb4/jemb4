@@ -16,5 +16,5 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" alt="Next.js" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python" />
   <br>
-  <img src="https://raw.githubusercontent.com/impavloh/impavloh/output/snake.svg" alt="Snake contributions" />
+
 </div>
