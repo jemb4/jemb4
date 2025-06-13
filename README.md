@@ -15,4 +15,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" alt="Vue" />
   <br>
 
+  <img src="https://github.com/jemb4/jemb4/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
 </div>
