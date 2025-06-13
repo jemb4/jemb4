@@ -7,12 +7,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <br> <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" alt="Vue" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript" />
-  <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java" />
+  <br>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" alt="Vue" />
   <br>
 
 </div>
