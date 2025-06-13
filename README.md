@@ -15,6 +15,11 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" alt="Vue" />
   <br>
 
-  <img src="https://github.com/jemb4/jemb4/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media ='(prefers-color-scheme: dark)' srcset="https://github.com/jemb4/jemb4/blob/output/github-snake-dark.svg" />
+    <source media ='(prefers-color-scheme: light)' srcset="https://github.com/jemb4/jemb4/blob/output/github-snake.svg" />
+    <img src="https://github.com/jemb4/jemb4/blob/output/github-snake.svg" alt="Snake animation" />
+  </picture>
+
 
 </div>
