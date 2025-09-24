@@ -6,8 +6,16 @@
     />
   </a> 
 
+# 🍓 About Me:
+<p>I'm a Full Stack Developer passionate about <strong>coding at a high level</strong> and exploring how technologies truly work.  
+My main interests include <strong>clean architecture 🏗️</strong>, <strong>best practices 📐</strong>, and applying agile methodologies like Scrum.  
+Specialized in <strong>React ⚛️</strong> and <strong>Spring Boot 🌱</strong>, I love learning new technologies and growing my skill set 🚀.</p>
 
-  <br>
+
+  <!-- ----- old ----- -->
+
+
+  <hr>
   <a href="https://www.linkedin.com/in/jesusmartinber/" target="_blank"><img width="40px" alt="LinkedIn" src="https://i.imgur.com/w4AODCJ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <br> <br>
