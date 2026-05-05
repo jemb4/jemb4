@@ -31,8 +31,8 @@ Specialized in <strong>React ⚛️</strong> and <strong>Spring Boot 🌱</stron
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg" hspace="4">
   </p>
   <p>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular2.svg" hspace="4"> 
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" hspace="4"> 
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg" hspace="4"> 
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" hspace="4"> 
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg" hspace="4"> 
   </p>
